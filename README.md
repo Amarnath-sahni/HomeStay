@@ -71,7 +71,7 @@ bash
 Copy
 Edit
 npm start
-Open your browser and go to http://localhost:3000 to view the app.
+Open your browser and go to http://localhost:8800/listing to view the app.
 
 Testing the Application
 You can register and log in to test the user authentication.
