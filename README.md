@@ -78,31 +78,6 @@ You can register and log in to test the user authentication.
 
 Browse through destinations, plan trips, and leave reviews for destinations.
 
-Project Structure
-bash
-Copy
-Edit
-wanderlust/
-│
-├── models/           # Mongoose models for data
-│   ├── User.js
-│   └── Destination.js
-│
-├── routes/           # Express route handlers
-│   ├── index.js
-│   └── auth.js
-│
-├── views/            # EJS views for rendering HTML
-│   ├── home.ejs
-│   └── destination.ejs
-│
-├── public/           # Static files (CSS, JS, Images)
-│   └── css/
-│
-├── .env              # Environment variables (e.g., MongoDB URI)
-├── app.js            # Main entry point (Express setup)
-├── package.json      # Project dependencies and scripts
-└── README.md         # This file
 Contributing
 Feel free to fork the repository and submit pull requests with your improvements or features. Here's how to contribute:
 
